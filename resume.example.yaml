@@ -53,16 +53,6 @@ fonts:
   sans: "Geist"  # Google Font name
   mono: "Geist Mono"
 
-canvas:
-  halftoneSize: 0.0001
-  contrast: 1
-  accentColor: "#CECFC7"
-  mouseRadius: 100
-  repulsionStrength: 1.5
-  returnSpeed: 0.6
-  accentProbability: 0.2
-  sizeVariation: 0.1
-
 experience:
   - title: "Senior Software Engineer"
     company: "Company Name"

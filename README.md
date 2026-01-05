@@ -4,6 +4,12 @@ Turn your CV into a live website in one command.
 
 CV2Web is a tool that generates a beautiful, interactive resume website from a simple YAML file. Just define your resume data, choose your fonts and colors, and let the system generate a professional Next.js website for you.
 
+### Example Resume
+
+<p align="center">
+  <img src="./readme-images/cv2web-example-1.png" width="800" />
+</p>
+
 ## Features
 
 - **Beautiful Design** - Modern, responsive design with an interactive halftone photo canvas

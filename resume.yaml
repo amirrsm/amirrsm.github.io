@@ -76,34 +76,34 @@ experience:
       - "Telegraf"
       - "Bash Script"
 
-# projects:
-#   - title: "Project Name"
-#     period: "Jan 2024 - Present"
-#     description: |
-#       Project description here.
-#     points:
-#       - "Key achievement 1"
-#       - "Key achievement 2"
-#       - "Key achievement 3"
-#     span: 1  # 1 or 2 columns (optional, default 1)
+projects:
+  - title: "Project Name"
+    period: "Jan 2024 - Present"
+    description: |
+      Project description here.
+    points:
+      - "Key achievement 1"
+      - "Key achievement 2"
+      - "Key achievement 3"
+    span: 1  # 1 or 2 columns (optional, default 1)
   
-#   - title: "Another Project"
-#     period: "Jan 2023 - Dec 2023"
-#     description: |
-#       Another project description.
-#     points:
-#       - "Achievement 1"
-#       - "Achievement 2"
-#     span: 1
+  - title: "Another Project"
+    period: "Jan 2023 - Dec 2023"
+    description: |
+      Another project description.
+    points:
+      - "Achievement 1"
+      - "Achievement 2"
+    span: 1
 
-# volunteering:
-#   - title: "Volunteer Position"
-#     organization: "Organization Name"
-#     period: "Jan 2024 · 1 mo"
-#     description: "Description of your volunteer work."
-#     link:
-#       text: "View Link"
-#       url: "https://example.com"
+volunteering:
+  - title: "Volunteer Position"
+    organization: "Organization Name"
+    period: "Jan 2024 · 1 mo"
+    description: "Description of your volunteer work."
+    link:
+      text: "View Link"
+      url: "https://example.com"
 
 skills:
   technologies:
